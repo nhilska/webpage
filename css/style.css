@@ -153,8 +153,8 @@ article#main-col{
   width:65%;
 }
 
-/* Services */
-ul#services li{
+/* Projects */
+ul#projects li{
   list-style: none;
   padding:20px;
   border: #cccccc solid 1px;
