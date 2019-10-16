@@ -28,7 +28,7 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
+  background:#161616;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
@@ -36,7 +36,7 @@ ul{
 
 /* Header **/
 header{
-  background:#35424a;
+  background:#161616;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
@@ -101,7 +101,7 @@ header a:hover{
 #newsletter{
   padding:15px;
   color:#ffffff;
-  background:#35424a
+  background:#161616;
 }
 
 #newsletter h1{
